@@ -1,5 +1,5 @@
 ## Hi there 👋
-hi
+Hi! I'm Prakriti, I like coding and phyiscs :)
 
 <!--
 **prakriti1000/prakriti1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
